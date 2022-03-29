@@ -4,8 +4,7 @@
 
 ----------------------------------------
 
-with this project a student shall be able to develop in an isolated and stable environment on a virtual machine, rather than working on a physical machine. the followi
-ng are tools to be used in this project:
+with this project a student shall be able to develop in an isolated and stable environment on a virtual machine, rather than working on a physical machine. the following are tools to be used in this project:
 
 
 - virtualbox
